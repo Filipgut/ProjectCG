@@ -1,0 +1,19 @@
+header
+{
+
+  background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(field.jpg);
+  text-align: center;
+  height:100vh;
+  background-position:center;
+  background-size:cover;
+ /* background-attachment: fixed;*/
+
+}
+.main
+{
+text-align: justify;
+  position: absolute;
+  width:100%;
+  tranasform: translate(-50%,-50%);
+  color: #e67e22;
+}
